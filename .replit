@@ -1,0 +1,2 @@
+run = "echo Running server... && node index"
+language = "nodejs" # optional
