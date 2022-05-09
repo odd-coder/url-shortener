@@ -17,7 +17,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [url shortner],
+  "keywords": [],
   "author": "Sestro",
   "license": "ISC"
 }
