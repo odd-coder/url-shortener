@@ -31,7 +31,7 @@ const htmlhead = `
 <head>
 <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/960823554088247366/972445384033042472/Odd_Logo.png" type="image/x-icon"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Oddy URL</title>
+<title>Odd URL</title>
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
